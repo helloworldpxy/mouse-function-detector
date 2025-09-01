@@ -1,3 +1,9 @@
+'''
+鼠标功能检测器 v1.0
+作者: HelloWorld05
+日期: 2025-09-01
+GitHub:https://github.com/helloworldpxy
+'''
 import tkinter as tk
 from tkinter import ttk, messagebox
 
